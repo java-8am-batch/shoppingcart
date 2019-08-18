@@ -55,8 +55,7 @@
 		<div id="head-link">
 			<div id='menungang'>
 				<ul>
-					<li class='last'><a href="index.jsp"><span>Trang
-								chủ</span></a></li>
+					<li class='last'><a href="index.jsp"><span>Home</span></a></li>
 					<li class='last'><a href="product.jsp"><span>Sản phẩm</span></a></li>
 					<li class='last'><a href="search_page.jsp"><span>Tìm kiếm</span></a></li>
 					<li class='last' style="float: right;"><a href="register.jsp"><span>Đăng
