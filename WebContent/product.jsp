@@ -78,6 +78,7 @@
 						NumberFormat nf = NumberFormat.getInstance();
 						nf.setMinimumFractionDigits(0);
 				%>
+				
 
 				<div id="site-wrapper-p" style="float: left; margin-left: 120px">
 					<ul class="products homepage">

@@ -22,6 +22,7 @@
 	margin-right: auto;
 }
 
+										
 #head {
 	height: 200px;
 	background-color: #F5F5F5;
